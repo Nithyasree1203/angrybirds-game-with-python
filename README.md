@@ -16,6 +16,7 @@ $ python3 main.py  or
 
 
 $ python main.py
+
 Game Play Screenshot:
 
 ![Screenshot 2024-10-21 160011](https://github.com/user-attachments/assets/24b1e436-a78c-453f-80cc-18064e086491)
